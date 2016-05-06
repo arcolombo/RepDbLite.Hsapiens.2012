@@ -1,0 +1,16 @@
+Package: RepDbLite.Hsapiens.2012
+Title: RepBase-based annotation package
+Description: lightweight RepBase transcript annotations
+Version: 1.0
+Author: .
+Maintainer: . <dev@null.com>
+Depends: TxDbLite
+Imports: GenomicFeatures, RSQLite
+License: Artistic-2.0
+organism: Homo sapiens
+species: Homo sapiens
+provider: RepBase
+provider_version: RepBase20_12
+release_date: Mon Apr 18 18:25:39 2016
+resource_url: http://www.girinst.org/server/RepBase/protected/RepBaseRepBase20_12.fasta/
+biocViews: AnnotationData, EnsDbLite, Homo_sapiens
